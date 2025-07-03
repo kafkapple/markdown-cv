@@ -153,15 +153,22 @@ PARK, J.-J.; HA, S.; SHIN, H.-S.; JEONG, J..
 *Genes, Brain and Behavior*, 21:e12810.
 
 `2019`
-LEE, J.-H.; LATCHOUMANE, C.-F.V., PARK, J.-J.; ET AL.. The Rostroventral Part of the Thalamic Reticular Nucleus Modulates Fear Extinction. *Nature Communications*, 10:4637.
+The Rostroventral Part of the Thalamic Reticular Nucleus Modulates Fear Extinction. 
+LEE, J.-H.; LATCHOUMANE, C.-F.V., PARK, J.-J.; ET AL.. 
+*Nature Communications*, 10:4637.
 
 `2016`
-KEUM, S.; PARK, J.-J.; ET AL.. Variability in Empathic Fear Response among 11 Inbred Strains of Mice. *Genes, Brain and Behavior*, 15:231-242.
+Variability in Empathic Fear Response among 11 Inbred Strains of Mice.
+KEUM, S.; PARK, J.-J.; ET AL..  
+*Genes, Brain and Behavior*, 15:231-242.
 
 ### Preprints
 
 `2025`
-PARK, J.-J.; MASHAYEKH ESFAHAN, N.; NARAYAN, A.. Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling. *Zenodo*. doi:10.5281/zenodo.15126322.
+
+Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling.
+PARK, J.-J.; MASHAYEKH ESFAHAN, N.; NARAYAN, A.. 
+ *Zenodo*. doi:10.5281/zenodo.15126322.
 
 ### Manuscripts in Preparation
 
