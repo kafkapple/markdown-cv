@@ -19,7 +19,7 @@ Daejeon, Republic of Korea
 
 ## Research Statement
 
-My research goal is to develop autonomous Al agents capable of systematic generalization and continual learning, drawing inspiration from the first principles of human cognition, I aim to achieve this by engineering a unified cognitive architecture that integrates two core components: an object-centric world model built from perception, and an adaptive metacognitive reasoning engine that guides deliberation. 
+My research goal is to develop autonomous Al agents capable of **systematic generalization** and **continual learning**, drawing inspiration from the first principles of human cognition, I aim to achieve this by engineering a unified cognitive architecture that integrates two core components: an object-centric world model built from perception, and an adaptive metacognitive reasoning engine that guides deliberation. 
 
 My unique foundation stems from a decade in comparative and computational cognitive neuroscience, providing the conceptual foundation, while my hands-on skills in computer vision and LLMs provide the technical means to bridge these fields and build truly intelligent systems.
 
