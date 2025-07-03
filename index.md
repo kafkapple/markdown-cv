@@ -13,28 +13,34 @@ A Brain-Inspired Cognitive Architect: Building AI for Human-Level Intelligence.
 </div>
 
 ## Currently
-
 Independent Researcher (Seeking Postdoctoral Position)
 
 Daejeon, Republic of Korea
 
 ## Research Statement
 
-My research goal is to develop autonomous Al agents capable of systematic generalization and continual learning, drawing inspiration from the first principles of human cognition, I aim to achieve this by engineering a unified cognitive architecture that integrates two core components: an object-centric world model built from perception, and an adaptive metacognitive reasoning engine that guides deliberation. My unique foundation stems from a decade in comparative and computational cognitive neuroscience, providing the conceptual foundation, while my hands-on skills in computer vision and LLMs provide the technical means to bridge these fields and build truly intelligent systems.
+My research goal is to develop autonomous Al agents capable of systematic generalization and continual learning, drawing inspiration from the first principles of human cognition, I aim to achieve this by engineering a unified cognitive architecture that integrates two core components: an object-centric world model built from perception, and an adaptive metacognitive reasoning engine that guides deliberation. 
+
+My unique foundation stems from a decade in comparative and computational cognitive neuroscience, providing the conceptual foundation, while my hands-on skills in computer vision and LLMs provide the technical means to bridge these fields and build truly intelligent systems.
 
 ### Research Interests
 
-1.  **Adaptive Metacognitive Control (AMOC) for Reliable System 2 Reasoning:** Developing the AMOC architecture to dynamically regulate an agent's reasoning strategy. This involves designing an adaptive Mixture-of-Experts (MoE) router guided by an uncertainty-aware monitor, and enabling continual self-improvement via knowledge distillation.
+1.  **Adaptive Metacognitive Control (AMOC) for Reliable System 2 Reasoning:** 
+Developing the AMOC architecture to dynamically regulate an agent's reasoning strategy. This involves designing an adaptive Mixture-of-Experts (MoE) router guided by an uncertainty-aware monitor, and enabling continual self-improvement via knowledge distillation.
 
-2.  **Approximate Neuro-Symbolic World Models (ANSSP) for Systematic Generalization:** Building robust neuro-symbolic world models by developing a core engine (ANSSP) to parse perception. This project tackles the 'binding problem' by translating visual scenes into compositional symbolic representations to enhance OOD generalization.
+2.  **Approximate Neuro-Symbolic World Models (ANSSP) for Systematic Generalization:** 
+Building robust neuro-symbolic world models by developing a core engine (ANSSP) to parse perception. This project tackles the 'binding problem' by translating visual scenes into compositional symbolic representations to enhance OOD generalization.
 
-3.  **Cognitive Architectures & First Principles of Intelligence:** Understanding the fundamental principles and architectural primitives that enable intelligence, whether natural or artificial. I aim to develop a first-principles understanding of how intelligent systems represent and process information to achieve general-purpose reasoning.
+3.  **Cognitive Architectures & First Principles of Intelligence:** 
+Understanding the fundamental principles and architectural primitives that enable intelligence, whether natural or artificial. I aim to develop a first-principles understanding of how intelligent systems represent and process information to achieve general-purpose reasoning.
 
 ### Core Competencies
 
-1.  **Neuro-Al & Cognitive Modeling:** Designing neuro-inspired cognitive architectures (e.g., System 2 via LLMs with CoT/ReAct) by analyzing and decoding neural (fMRI/EEG) and behavioral data.
+1.  **Neuro-Al & Cognitive Modeling:** 
+Designing neuro-inspired cognitive architectures (e.g., System 2 via LLMs with CoT/ReAct) by analyzing and decoding neural (fMRI/EEG) and behavioral data.
 
-2.  **Experimental Neuroscience:** Leading full experimental loops, from cognitive/behavioral paradigm design to targeted neural recording (e.g., single-unit recording), manipulation (e.g., optogenetics, chemogenetics, stereotaxic surgery) and analysis.
+2.  **Experimental Neuroscience:** 
+Leading full experimental loops, from cognitive/behavioral paradigm design to targeted neural recording (e.g., single-unit recording), manipulation (e.g., optogenetics, chemogenetics, stereotaxic surgery) and analysis.
 
 3.  **AI/ML Engineering:**
   - **Languages & Libraries:** Python (Advanced), PyTorch, NumPy, Pandas, TensorFlow, Bash/Shell, LaTeX
@@ -63,7 +69,7 @@ My research goal is to develop autonomous Al agents capable of systematic genera
   - B.S. in Bio & Brain Engineering (Minor in Business Economics)
     Daejeon, Republic of Korea
 
-## Occupation
+## Experience
 
 `Oct. 2024 - May 2025`
 **Impact Scholars Program (ISP), Neuromatch Academy**, Virtual
@@ -117,7 +123,7 @@ My research goal is to develop autonomous Al agents capable of systematic genera
   - Secured the industry partner's role in a large-scale national consortium grant (Total Budget: KRW 450M/year).
 
 `Apr. 2023`
-**Science-Belt Technology Commercialization (R\&BD) Support Program (MSIT)**
+**Science-Belt Technology Commercialization (R&BD) Support Program (MSIT)**
 
   - Principal Investigator
   - Project: An Al System to Find Biomarkers in Behavioral Image Data (Finalist)
@@ -135,14 +141,16 @@ My research goal is to develop autonomous Al agents capable of systematic genera
 
   - Research Director, ACTNOVA
   - Project: Al-Based Analysis of Psychoactive Drug Withdrawal Symptoms
-  - Successfully delivered a contracted R\&D project, implementing video-analysis workflows to quantify and predict withdrawal symptoms.
+  - Successfully delivered a contracted R&D project, implementing video-analysis workflows to quantify and predict withdrawal symptoms.
 
 ## Publications
 
 ### Peer-Reviewed Journal Articles
 
 `2022`
-PARK, J.-J.; HA, S.; SHIN, H.-S.; JEONG, J.. Experience of a Hierarchical Relationship between a Pair of Mice Specifically Influences Their Affective Empathy toward Each Other. *Genes, Brain and Behavior*, 21:e12810.
+Experience of a Hierarchical Relationship between a Pair of Mice Specifically Influences Their Affective Empathy toward Each Other. 
+PARK, J.-J.; HA, S.; SHIN, H.-S.; JEONG, J.. 
+*Genes, Brain and Behavior*, 21:e12810.
 
 `2019`
 LEE, J.-H.; LATCHOUMANE, C.-F.V., PARK, J.-J.; ET AL.. The Rostroventral Part of the Thalamic Reticular Nucleus Modulates Fear Extinction. *Nature Communications*, 10:4637.

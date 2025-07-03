@@ -2,7 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
+/* print.css */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -57,16 +57,16 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.5em;
 	margin-right: 0;
-	width: 60%;
+	width: 50%;
 }
 
 code {
@@ -76,20 +76,21 @@ code {
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
-
+/* 날짜 우측 정렬 */
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -50%;
+	font-size: 60%;
 }
 
-
+/* 내용 영역 */
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 70%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -108,23 +109,24 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
-	width: 100%;
+	left: 25;
+	width: 55%;
 	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
+	font-weight: 600;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.5em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-bottom: 0.5em;
 }
 
 h1+p {
@@ -135,10 +137,10 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 2em;
+	color: #265abb;;
+	margin-top: 1.5em;
 	position: relative;
-	top: 1.2em;
+	top: 1.4em;
 	text-align: right;
 	width: 20%;
 }
@@ -146,12 +148,14 @@ h2 {
 
 h3 {
 	font-size: 1em;
+	font-weight: 400;
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
 	width: 20%;
+	color: #265abb;
 }
 
 a {
