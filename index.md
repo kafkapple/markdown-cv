@@ -38,9 +38,9 @@ Daejeon, Republic of Korea
 ## Experience
 
 `Aug. 2025 - Aug. 2026`
-**Postdoctoral Fellow (InnoCore Program)**, [AMILab](https://ami.kaist.ac.kr/), KAIST School of Computing
+**Postdoctoral Fellow**, [AMILab](https://ami.kaist.ac.kr/), KAIST School of Computing
 
-  - Selected for the KAIST InnoCore Postdoctoral Fellowship Program; hosted by Prof. Tae-Hyun Oh (AMILab PI).
+  - Hosted by Prof. Tae-Hyun Oh (AMILab PI); supported by the InnoCore Postdoctoral Fellowship Program (MSIT/NRF).
   - **Vision-Language Models & conditional visual similarity**: co-authored **CLAY (CVPR 2026)** on modulating visual similarity in a VLM embedding space.
   - **3D Gaussian Splatting (3D-GS) for animal reconstruction & behavior analysis** (ongoing): developing a multi-view geometry (MVG) + neural-representation pipeline that reconstructs freely-moving animals in 3D/4D and extracts quantitative behavioral descriptors.
 
