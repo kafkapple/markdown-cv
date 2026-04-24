@@ -18,7 +18,7 @@ Daejeon, Republic of Korea
 
 ## About
 
-*I work at the interface of neuroscience and AI — using AI to study neural and behavioral data, and drawing on neuroscience to inform AI systems. Prior work has examined context-dependent perception and cognition in rodent empathy, emotion-aware LLM reasoning, and conditional similarity in vision-language models (CLAY). At KAIST AMILab, I am working on computational methods for animal behavior analysis.*
+*I work at the interface of neuroscience and AI — using AI to study neural and behavioral data, and drawing on neuroscience to inform AI systems. Prior work has examined context-dependent perception and cognition in rodent empathy, emotion-aware LLM reasoning, and conditional similarity in vision-language models. At KAIST AMILab, I am working on computational methods for animal behavior analysis.*
 
 ## Education
 
@@ -78,8 +78,10 @@ Daejeon, Republic of Korea
 ### Peer-Reviewed Journal Articles
 
 - **Park, J.-J.**; Ha, S.; Shin, H.-S.; Jeong, J. *Experience of a Hierarchical Relationship between a Pair of Mice Specifically Influences Their Affective Empathy toward Each Other.* Genes, Brain and Behavior 21(5):e12810, 2022. [DOI](https://doi.org/10.1111/gbb.12810)
+  - Authors: Jungjoon Park, Seungshin Ha, Hee-Sup Shin, Jaeseung Jeong.
 - Lee, J.-H.; Latchoumane, C.-F. V.; **Park, J.-J.**; Kim, J.; Jeong, J.; Lee, K.-H.; Shin, H.-S. *The Rostroventral Part of the Thalamic Reticular Nucleus Modulates Fear Extinction.* Nature Communications 10:4637, 2019. [DOI](https://doi.org/10.1038/s41467-019-12496-9)
-- Keum, S.; **Park, J.-J.**; Kim, A.; Park, J.; Kim, K. K.; Jeong, J.; Shin, H.-S. *Variability in Empathic Fear Response among 11 Inbred Strains of Mice.* Genes, Brain and Behavior 15(2):231–242, 2016. [DOI](https://doi.org/10.1111/gbb.12278)
+  - Authors: Joon-Hyuk Lee, Charles-Francois V. Latchoumane, Jungjoon Park, Jinhyun Kim, Jaeseung Jeong, Kwang-Hyung Lee, Hee-Sup Shin.
+- Keum, S.; **Park, J.**; Kim, A.; Park, J.; Kim, K. K.; Jeong, J.; Shin, H.-S. *Variability in Empathic Fear Response among 11 Inbred Strains of Mice.* Genes, Brain and Behavior 15(2):231–242, 2016. [DOI](https://doi.org/10.1111/gbb.12278)
 
 ### Peer-Reviewed Workshop Posters (Non-Archival)
 
@@ -88,13 +90,6 @@ Daejeon, Republic of Korea
 ### Preprints
 
 - **Park, J.-J.**; Mashayekh Esfahan, N.; Narayan, A. *Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling.* Zenodo, Apr 2025. [DOI](https://doi.org/10.5281/zenodo.15126322)
-
-### Manuscripts in Preparation
-
-- **Park, J.-J.** et al. *Differential Contributions of CaMKIIα in the Medial Amygdala versus Anterior Cingulate Cortex to Social Memory and Empathic Fear.*
-- **Park, J.-J.** et al. *CaMKIIα in the Anterior Cingulate Cortex is Not Required for the Formation of Remote Memory.*
-- **Park, J.-J.** et al. *Maturity-Specific Effects of Heterospecific Social Cues on Observational Fear Learning.*
-- **Park, J.-J.** et al. *Neuronal Variability, Not Mean Firing, Encodes Empathic State in mPFC Ensembles.*
 
 ## Selected Presentations
 
