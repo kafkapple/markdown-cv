@@ -89,7 +89,7 @@ Daejeon, Republic of Korea
 
 ### Preprints
 
-- **Park, J.-J.**; Mashayekh Esfahan, N.; Narayan, A. *Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling.* Zenodo, Apr 2025. [DOI](https://doi.org/10.5281/zenodo.15126322)
+- **Park, J.-J.**; Mashayekh Esfahan, N.; Narayan, A. *(N. = Nikoo, A. = Arasu)* *Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling.* Zenodo, Apr 2025. [DOI](https://doi.org/10.5281/zenodo.15126322)
 
 ## Selected Presentations
 
