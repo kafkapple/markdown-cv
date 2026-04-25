@@ -85,7 +85,7 @@ Daejeon, Republic of Korea
 
 ### Peer-Reviewed Workshop Posters (Non-Archival)
 
-- Kim, D.-G.; Kim, J.; Jung, W.; **Park, J.-J.**; Kim, M.; Shin, A.; Jeong, Y.-C.; Park, S.; Shin, G.; Lee, Y. W.; Kwon, J.; Kim, D. *AVATAR: AI Vision Analysis for Three-Dimensional Action in Real-Time.* [CV4Animals Workshop @ CVPR](https://www.cv4animals.com/2022-accepted-papers), 2022. **Non-archival** (not in CVPR proceedings).
+- Daegun Kim, Jineun Kim, Wongyo Jung, **Jungjoon Park**, Mingyu Kim, Anna Shin, Yong-Cheol Jeong, Seahyung Park, Gwanhoo Shin, Ye Won Lee, Jea Kwon, Daesoo Kim *AVATAR: AI Vision Analysis for Three-Dimensional Action in Real-Time.* [CV4Animals Workshop @ CVPR](https://www.cv4animals.com/2022-accepted-papers), 2022. **Non-archival** (not in CVPR proceedings).
 
 ### Preprints
 
