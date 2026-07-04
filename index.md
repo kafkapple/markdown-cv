@@ -18,7 +18,7 @@ Daejeon, Republic of Korea
 
 ## About
 
-*I work at the interface of neuroscience and AI — using AI to study neural and behavioral data, and drawing on neuroscience to inform AI systems. Prior work has examined context-dependent perception and cognition in rodent empathy, emotion-aware LLM reasoning, and conditional similarity in vision-language models. At KAIST AMILab, I am working on computational methods for animal behavior analysis.*
+*I study how context shapes adaptive cognition — from social memory circuits in rodents to context-dependent representations in multimodal AI. I build computational tools for dense 3D behavioral quantification and pursue a NeuroAI vision where neuroscience and machine intelligence mutually advance.*
 
 ## Education
 
@@ -77,7 +77,7 @@ Daejeon, Republic of Korea
 
 ### Peer-Reviewed Journal Articles
 
-- **Park, J.-J.**; Ha, S.; Shin, H.-S.; Jeong, J. *Experience of a Hierarchical Relationship between a Pair of Mice Specifically Influences Their Affective Empathy toward Each Other.* Genes, Brain and Behavior 21(5):e12810, 2022. [DOI](https://doi.org/10.1111/gbb.12810)
+- **Park, J.-J.**; Ha, S.; Shin, H.-S.; Jeong, J. *Experience of a Hierarchical Relationship between a Pair of Mice Specifically Influences Their Affective Empathy toward Each Other.* Genes, Brain and Behavior 21(5):e12810, 2022. [DOI](https://doi.org/10.1111/gbb.12810) — **[Wiley Top Cited Article 2022–2023]**
   - Authors: Jungjoon Park, Seungshin Ha, Hee-Sup Shin, Jaeseung Jeong.
 - Lee, J.-H.; Latchoumane, C.-F. V.; **Park, J.-J.**; Kim, J.; Jeong, J.; Lee, K.-H.; Shin, H.-S. *The Rostroventral Part of the Thalamic Reticular Nucleus Modulates Fear Extinction.* Nature Communications 10:4637, 2019. [DOI](https://doi.org/10.1038/s41467-019-12496-9)
   - Authors: Joon-Hyuk Lee, Charles-Francois V. Latchoumane, Jungjoon Park, Jinhyun Kim, Jaeseung Jeong, Kwang-Hyung Lee, Hee-Sup Shin.
@@ -91,23 +91,36 @@ Daejeon, Republic of Korea
 
 - **Park, J.-J.**; Mashayekh Esfahan, N.; Narayan, A. *(N. = Nikoo, A. = Arasu)* *Toward Advancing Emotion Recognition in LLMs: A Comparative Study of Prompt Strategies, Few-Shot Learning, and Model Ensembling.* Zenodo, Apr 2025. [DOI](https://doi.org/10.5281/zenodo.15126322)
 
+## Patents
+
+- Lim, S.; Oh, T.-H.; **Park, J.-J.** *Method for Modality Retrieval Based on Condition Information and Electronic Device Performing the Same.* Korean Patent Application No. 10-2026-0097790 (filed May 29, 2026; claims priority from provisional 10-2026-0045953, filed Mar 13, 2026). Applicants: Samsung Electronics Co., Ltd. / KAIST. Co-inventor. Filed, pending examination.
+
 ## Selected Presentations
 
 ### Invited Talks & Seminars
 
-- **Invited Speaker**: "Mice Hierarchy and Empathy Study," 50th European Brain & Behaviour Society Meeting (EBBS), Amsterdam, Aug 2023.
+- **Invited Speaker**: "A NeuroAI Perspective on Neural 3D Behavioral Analysis and Context-Dependent Neural Computation," Neuroscience-inspired AI Research Group, Center for Memory and Glioscience, Institute for Basic Science (IBS), May 19, 2026.
 - **Seminar**: "The Virtuous Cycle of NeuroAI: Bridging Biological and Artificial Intelligence," KAIST AMI Lab, Feb 2026.
-- **Co-Presenter**: "Advancing Emotion Recognition in LLMs," Impact Scholars Program Seminar, Virtual, Mar 2025.
-- **Invited Speaker**: "Behavioral Video Analysis for Predicting Attraction towards Others," BC & Behavior Workshop, DBDL, KAIST, Jan 2024.
+- **Co-Presenter**: "Advancing Emotion Recognition in LLMs," Impact Scholars Program Seminar, Virtual, Mar 29, 2025.
+- **Speaker**: "An Integrated Perspective on Emotion: Multi-modal Representation & Categorical-Dimensional Mapping," Neuraka, Feb 20, 2025.
+- **Invited Speaker**: "Trends in Computational Neuroethology: The Past & Future of Automated Behavior Analysis," BC & Behavior Workshop, DBDL, Dept. of BCS, KAIST, Jan 2024.
+- **Invited Speaker**: "Experience of a Hierarchical Relationship between a Pair of Mice Influences Social Transfer of Fear," 50th European Brain & Behaviour Society Meeting (EBBS), Amsterdam, Aug 2023.
+- **Invited Speaker**: "From Social Cognition to Artificial General Intelligence," SKKU LNPO Seminar, Aug 18, 2022.
+- **Moderator & Presenter**: "Why 'Theoretical Framework' Matters?: Systematic Thinking to Understand 'How the Mind Works' and Implement Intelligence," KAIST NeuroAI Media Seminar, Sep 28, 2020.
 
 ### Posters & Conference Presentations
 
+- **Poster**: "Systematic Benchmarking of Prompt Engineering Strategies for LLM-based Emotion Recognition," 2025 RCV Next-Generation Collaboration and Research Exchange Workshop, KAIST, Dec 29, 2025.
 - **Poster**: "AVATAR: AI Vision Analysis for Three-Dimensional Action in Real-Time," CV4Animals Workshop @ CVPR, Jun 2022.
 - **Poster**: "Intrinsic and Social Factors of Empathic Response," Francis Crick Symposium, CSHL, Suzhou, May 2019.
 - **Oral**: "NAS-Optimized CNN for Driver Monitoring with XAI," ETRI AI System Development Seminar, Pangyo, Oct 2018.
 - **Poster**: "The Precision of Contextual Familiarity Memory Is Attenuated in Remote Retrieval," Society for Neuroscience (SfN), San Diego, Nov 2013.
 
 ## Honors & Awards
+
+`2026` **Outstanding Poster Award** — IPIU 2026 (38th Workshop on Image Processing and Image Understanding), for CLAY (co-author; poster presented by a co-author).
+
+`2024` **Wiley Top Cited Article 2022–2023** — top 10 most-cited papers in Genes, Brain and Behavior (Jan 2022–Dec 2023), for the 2022 hierarchical-empathy paper.
 
 `2022` **Committee Member, Convergence Division** — 2022 Science-Belt Research Society Idea Concert, INNOPOLIS.
 
@@ -162,4 +175,4 @@ Daejeon, Republic of Korea
 
 `2018 - 2021` **Data Science & Production ML** — CCEI (6-month Fellowship), Google Cloud, NIPA.
 
-<!-- Last updated: 2026-04-24 -->
+<!-- Last updated: 2026-07-04 -->
