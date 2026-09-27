@@ -4,7 +4,7 @@ title: Jungjoon Park — CV
 ---
 # Jungjoon Park
 
-Postdoctoral Fellow · [AMILab (Advanced Machine Intelligence)](https://ami.kaist.ac.kr/), KAIST School of Computing
+Postdoctoral Researcher · NeuroAI Group (PI: Sungho Hong), Center for Memory and Glioscience, Institute for Basic Science (IBS)
 
 <div id="webaddress">
 <a href="mailto:biasdrive@gmail.com">biasdrive@gmail.com</a>
@@ -33,9 +33,12 @@ Daejeon, Republic of Korea
   - Thesis: "Investigation of Empathy in Terms of Age and Memory"
 
 `Mar. 2005 - Aug. 2010`
-**B.S. in Bio & Brain Engineering** (Minor in Business Economics), KAIST, Daejeon, Republic of Korea
+**B.S. in Bio & Brain Engineering** (Minor in Management Science), KAIST, Daejeon, Republic of Korea
 
 ## Experience
+
+`Sep. 2026 - Present`
+**Postdoctoral Researcher**, NeuroAI Group (PI: Sungho Hong), Center for Memory and Glioscience, Institute for Basic Science (IBS), Daejeon, Republic of Korea
 
 `Aug. 2025 - Aug. 2026`
 **Postdoctoral Fellow**, [AMILab](https://ami.kaist.ac.kr/), KAIST School of Computing
@@ -49,8 +52,8 @@ Daejeon, Republic of Korea
 
   - Selected for an intensive AI fellowship with hands-on research and mentorship; completed mentored research on LLM-based emotion recognition.
 
-`Sep. 2022 - May 2024`
-**Chief Operating Officer & Research Director**, ACTNOVA, Daejeon, Republic of Korea
+`Aug. 2022 - May 2024`
+**Co-founder, Chief Operating Officer & Research Director**, ACTNOVA, Daejeon, Republic of Korea
 
   - Co-founded and scaled a neuroscience-AI startup, raising ₩4.3B in pre-Series A and growing the team to five researchers.
 
