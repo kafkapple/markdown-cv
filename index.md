@@ -76,7 +76,7 @@ Daejeon, Republic of Korea
 
 ### Peer-Reviewed Conference Articles
 
-- Lim, S.; Lee, H.; **Park, J.-J.**; Oh, T.-H. *CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. arXiv:2604.11539
+- Lim, S.; Lee, H.; **Park, J.-J.**; Oh, T.-H. *CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. arXiv:2604.11539 Also listed at the DataMFM Workshop at CVPR 2026 (non-archival).
 
 ### Peer-Reviewed Journal Articles
 
